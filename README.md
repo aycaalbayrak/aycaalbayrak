@@ -1,7 +1,7 @@
 # **Apartman Yönetim Sistemi**
 
 ## **Proje Tanımı**
-Apartman Yönetim Sistemi, apartman sakinleri ve yöneticiler için tasarlanmış bir uygulamadır. Bu sistem, aidat yönetimi, kullanıcı takibi ve bildirim gönderimi gibi işlemleri etkili bir şekilde yönetmek amacıyla geliştirilmiştir. Kod, **Singleton**, **Factory**, **State**, **Observer**, **Decorator**, ve **Composite** tasarım desenleri ile yapılandırılmıştır ve bu da sistemin genişletilebilirliğini ve bakımını kolaylaştırır.
+Apartman Yönetim Sistemi, apartman sakinleri ve yöneticiler için tasarlanmış bir uygulamadır. Bu sistem, aidat yönetimi, kullanıcı takibi ve bildirim gönderimi gibi işlemleri etkili bir şekilde yönetmek amacıyla geliştirilmiştir. Kod, **Singleton**, **Factory**, **State**, **Observer**, **Decorator** ve **Composite** tasarım desenleri ile yapılandırılmıştır ve bu da sistemin genişletilebilirliğini ve bakımını kolaylaştırır.
 
 ---
 
@@ -52,8 +52,7 @@ Apartman Yönetim Sistemi, apartman sakinleri ve yöneticiler için tasarlanmı�
 - **Amaç**: Ekstra özellikler (güvenlik, temizlik ücretleri) eklenerek aidat hesaplamasının dinamik olarak değiştirilmesi.
 
 ### 6. **Composite Design Pattern**
-- **Kullanım Alanı**:
-  - `Apartman` ve `ApartmanBirim` sınıfları, apartman ve birimlerinin (daire, dükkan) hiyerarşik bir yapı içinde yönetilmesini sağlar.
+- **Kullanım Alanı**:`Apartman` ve `ApartmanBirim` sınıfları, apartman ve birimlerinin (daire, dükkan) hiyerarşik bir yapı içinde yönetilmesini sağlar.
 - **Amaç**: Karmaşık bir nesne yapısını (apartman birimleri) ağaç benzeri bir yapıda temsil etmek.
 
 ---
