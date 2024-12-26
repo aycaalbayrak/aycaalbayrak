@@ -61,12 +61,15 @@ Apartman Yönetim Sistemi, apartman sakinleri ve yöneticiler için tasarlanmı�
    ## Ekran Görüntüleri
 
 - **Üye Ol Ekranı:** Kullanıcıların sisteme üye olmasını sağlar.
+  
 - ![image](https://github.com/user-attachments/assets/51446147-a840-440c-ae70-47e92d69e85d)
 
 - **Giriş Ekranı:**  Kullanıcıların sisteme giriş yapmasını sağlar.
+  
   ![image](https://github.com/user-attachments/assets/f1cb1eb7-f1bb-45ad-8d71-6018cd5e78b8)
 
 - **Admin Paneli:**  Kullanıcı ve aidat yönetimi yapılır.
+  
   ![image](https://github.com/user-attachments/assets/def40355-eac4-418d-b68a-1ff4fac67e37)
   ![image](https://github.com/user-attachments/assets/cbeb62ee-0fbc-40a4-8a3a-581d6d7df510)
   ![image](https://github.com/user-attachments/assets/5f915a8b-0194-4be4-8ee6-d53c5001b178)
@@ -74,6 +77,7 @@ Apartman Yönetim Sistemi, apartman sakinleri ve yöneticiler için tasarlanmı�
   ![image](https://github.com/user-attachments/assets/51352888-8dd7-4ae7-83e6-989c0ae304a8)
   
 - **Resident Paneli:**  Daire sakinlerinin aidat ödeme ve bildirim görüntüleme işlemleri yapılır.
+  
   ![image](https://github.com/user-attachments/assets/1063365f-4c8a-4b4d-a73d-124855ccba8e)
   ![image](https://github.com/user-attachments/assets/e3ec8a3e-8624-457e-8150-e2c99e401c22)
   ![image](https://github.com/user-attachments/assets/16efd731-1b7f-4822-a447-601694829568)
