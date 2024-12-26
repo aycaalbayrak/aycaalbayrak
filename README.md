@@ -84,6 +84,16 @@ Apartman Yönetim Sistemi, apartman sakinleri ve yöneticiler için tasarlanmı�
   ![image](https://github.com/user-attachments/assets/99f32e2e-7572-4e95-b67d-5a5a3ae6a804)
 
 
+## Yazarlar
+
+- [AYÇA ALBAYRAK](https://github.com/aycaalbayrak)
+
+
+## Teşekkürler
+
+Projemi incelediğiniz için teşekkür ederim!
+
+
 
   
 
