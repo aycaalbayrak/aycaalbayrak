@@ -31,27 +31,27 @@ Apartman Yönetim Sistemi, apartman sakinleri ve yöneticiler için tasarlanmı�
 
 ## **Tasarım Desenleri**
 
-### 1. **Singleton**
+### 1. **Singleton Design Pattern**
 - **Kullanım Alanı**: Veritabanı bağlantısını yöneten `VeritabaniBaglantisi` sınıfında kullanılmıştır.
 - **Amaç**: Veritabanına tek bir bağlantı nesnesi üzerinden erişim sağlamak ve kaynak tüketimini azaltmak.
 
-### 2. **Factory**
+### 2. **Factory Design Pattern**
 - **Kullanım Alanı**:`EntityFactory` sınıfı, farklı tipte kullanıcıları (`DaireSakini`, `YoneticiKullanici`) ve apartman birimlerini (`Daire`, `Dukkan`) oluşturmak için kullanılmıştır.
 - **Amaç**: Nesne oluşturmayı soyutlayarak, esnek ve yeniden kullanılabilir bir yapı sunmak.
 
-### 3. **State**
+### 3. **State Design Pattern**
 - **Kullanım Alanı**: Kullanıcıların durumlarını (`AktifDurum`, `PasifDurum`, `BorcluDurum`) yönetmek için kullanılmıştır.
 - **Amaç**: Kullanıcı durumlarına göre sistem davranışını dinamik olarak değiştirmek.
 
-### 4. **Observer**
+### 4. **Observer Design Pattern**
 - **Kullanım Alanı**:`Subject` ve `Observer` arayüzleri, bildirim mekanizmasında uygulanmıştır.`AidatHatirlatici` sınıfı, kullanıcıların durum değişikliklerini gözlemler ve bildirim gönderir.
 - **Amaç**: Nesneler arasında gevşek bağlam sağlamak ve durum değişikliklerini ilgili nesnelere otomatik olarak iletmek.
 
-### 5. **Decorator**
+### 5. **Decorator Design Pattern**
 - **Kullanım Alanı**: Aidat hesaplamalarını genişletmek için kullanılmıştır (`GuvenlikHizmetiDecorator`, `TemizlikHizmetiDecorator`).
 - **Amaç**: Ekstra özellikler (güvenlik, temizlik ücretleri) eklenerek aidat hesaplamasının dinamik olarak değiştirilmesi.
 
-### 6. **Composite**
+### 6. **Composite Design Pattern**
 - **Kullanım Alanı**:
   - `Apartman` ve `ApartmanBirim` sınıfları, apartman ve birimlerinin (daire, dükkan) hiyerarşik bir yapı içinde yönetilmesini sağlar.
 - **Amaç**: Karmaşık bir nesne yapısını (apartman birimleri) ağaç benzeri bir yapıda temsil etmek.
