@@ -62,7 +62,7 @@ Apartman Yönetim Sistemi, apartman sakinleri ve yöneticiler için tasarlanmı�
 
 - **Üye Ol Ekranı:** Kullanıcıların sisteme üye olmasını sağlar.
   
-- ![image](https://github.com/user-attachments/assets/51446147-a840-440c-ae70-47e92d69e85d)
+  ![image](https://github.com/user-attachments/assets/51446147-a840-440c-ae70-47e92d69e85d)
 
 - **Giriş Ekranı:**  Kullanıcıların sisteme giriş yapmasını sağlar.
   
