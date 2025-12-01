@@ -1,6 +1,6 @@
 # 🌟 Ayça Albayrak — Game Developer & Digital Artist in Progress
 
-Welcome to my GitHub! I’m a **Software Engineering student** and a passionate **Game Development learner** who is building skills in digital art, 3D modeling, and game engines. I’m creating my own learning path step by step — from Photoshop to full character pipelines and Unreal Engine world-building.
+Welcome to my GitHub! I’m a **Software Engineering student** and a passionate **Game Development learner** who is building skills in digital art, 3D modeling and game engines. I’m creating my own learning path step by step — from Photoshop to full character pipelines and Unreal Engine world-building.
 
 ---
 
