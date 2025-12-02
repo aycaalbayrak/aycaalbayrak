@@ -1,4 +1,4 @@
-# 🌟 Ayça Albayrak — Game Developer & Digital Artist in Progress
+# Ayça Albayrak — Game Developer & Digital Artist in Progress
 
 Welcome to my GitHub! I’m a **Software Engineering student** and a passionate **Game Development learner** who is building skills in digital art, 3D modeling and game engines. I’m creating my own learning path step by step — from Photoshop to full character pipelines and Unreal Engine world-building.
 
@@ -11,15 +11,15 @@ My goal is to combine software engineering with game design and produce high-qua
 ---
 
 ## 🎨 Completed Training
-### ✔️ Photoshop Professional Program – Navras Academy
+###  Photoshop Professional Program – Navras Academy
 - Digital art & concept design  
 - Texture creation  
 - Visual editing & composition  
 
 ---
 
-## 🔧 Currently Working On
-### 🟢 Blender (Active Learning)
+## 🔧 Currently Working On 
+###  Blender – Navras Academy 
 - 3D modeling  
 - Lighting & scene setup  
 - Environment creation  
