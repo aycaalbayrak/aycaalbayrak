@@ -1,78 +1,60 @@
-# Ayça Albayrak — Game Developer & Digital Artist in Progress
+# Ayça Albayrak - Junior Game Developer 
 
-Welcome to my GitHub! I’m a **Software Engineering student** and a passionate **Game Development learner** who is building skills in digital art, 3D modeling and game engines. I’m creating my own learning path step by step — from Photoshop to full character pipelines and Unreal Engine world-building.
-
----
-
-## 🎭 Who Am I?
-I love **creating visuals**, **designing atmospheres** and **bringing ideas to life** through technology.  
-My goal is to combine software engineering with game design and produce high-quality digital works.
+Welcome to my GitHub.  
+I am a **Software Engineering student** focused on **game development**, **3D production**, and **digital art**.  
+My work centers on building visually strong, game-ready assets and environments using modern production pipelines.
 
 ---
 
-## 🎨 Completed Training
-###  Photoshop Professional Program – Navras Academy
-- Digital art & concept design  
+## Profile
+I specialize in visual creation and environment design, combining artistic workflows with technical foundations.  
+My interest lies in creating immersive scenes, characters, and interactive worlds using professional game development tools.
+
+---
+
+## Education & Training
+
+### Photoshop Professional Program — *Navras Academy*
+- Digital art and concept design  
 - Texture creation  
-- Visual editing & composition  
+- Visual composition and editing  
+
+### Blender 3D Production — *Navras Academy*
+- 3D modeling and asset creation  
+- Lighting and scene composition  
+- Environment design  
+- Sculpting fundamentals  
 
 ---
 
-## 🔧 Currently Working On 
-###  Blender – Navras Academy 
-- 3D modeling  
-- Lighting & scene setup  
-- Environment creation  
-- Sculpting basics  
+## Current Focus
+- Unreal Engine environment building  
+- Scene optimization and level setup  
+- Asset integration and visual storytelling  
 
 ---
 
-## 🚀 Next Steps in My Learning Roadmap
-I’m following a structured, long-term **Game Developer** path. Upcoming modules:
-
-- **Unreal Engine** 
-- **Character Creator**  
-- **iClone**  
-- **Substance Designer**  
-- **Substance Painter**  
-- **Marvelous Designer**  
-- **Unreal Engine MasterClass**  
+## Areas of Work
+- Digital art & concept visuals  
+- 3D models and environments  
+- Game-ready assets  
+- Real-time engine scenes  
 
 ---
 
-## 🎯 My Mission
-To build a strong, visually impressive portfolio including:
+## Tools & Technologies
 
-- Digital artworks and concept pieces  
-- Blender 3D models and environments  
-- Unreal Engine prototypes and levels  
-- Complete character pipelines (CC → iClone → UE → Substance)  
-
----
-
-## 🧰 Tools & Technologies
-**Design & 3D:**  
+**Design & 3D**  
 Photoshop • Blender • Substance Painter • Substance Designer • Marvelous Designer  
 
-**Game Development:**  
+**Game Development**  
 Unreal Engine • Character Creator • iClone  
-
-**Programming:**  
-C# • Unity (Basics)
-
 
 ---
 
-## 📬 Contact
-- 📧 Email: aycalbyrkk@gmail.com
+## Contact
+📧 **Email:** aycalbyrkk@gmail.com  
 
 ---
 
 ✨ *Growing, learning, and creating one project at a time.*
-
-
-
-
-
-
-
